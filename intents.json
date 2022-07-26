@@ -10,7 +10,7 @@
              "Hello",
              "Good day"
             ],
-            "Responses": [
+            "responses": [
             "Hey :-)",
             "Hello, thanks for visiting",
             "Hi there, what can I do for you?",
@@ -28,7 +28,7 @@
              "Bye",
              "See you later"
             ],
-            "Responses": [
+            "responses": [
             "Hey :-)",
             "Hello, thanks for visiting",
             "Hi there, what can I do for you?",
@@ -46,7 +46,7 @@
              "Thanks",
              "Thank you"
             ],
-            "Responses": [
+            "responses": [
             "Happy to help",
             "No problem",
             "Hi there, what can I do for you?",

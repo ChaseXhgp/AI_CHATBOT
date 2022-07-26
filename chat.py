@@ -34,7 +34,7 @@ while True:
     sentance = tokenize(sentance)
     X = bag_of_words(sentance, all_words)
     X = X.reshape(1, X.shape[0])
-    X = torch.from_numpy()
+    X = torch.from_numpy(X).to(device)
 
     output = model(X)
     _, predicted = torch.max(output, dim=1)
